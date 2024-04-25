@@ -39,6 +39,10 @@ Additionally, here is a map of the biggest car markets in the Southeast for thes
 <img width="1426" alt="Screenshot 2024-04-21 at 9 10 34 PM" src="https://github.com/brendanr14/MIST4610GroupProject2/assets/149964823/7ec128bb-1734-432b-96e7-7a2920748d67">
 
 
+Both of these visualizations show the top 5 most sold car brands in the Southeast region. These brands are BMW, Chevrolet, Ford, Mercedes-Benz, and Toyota. We can see here the average selling price of each of these makes at different mileage points. This allows us to get a better view at which popular brands hold their value better as they age and are driven more. From a quick glance, we can see BMW has the biggest selliing price difference while Toyota maintains its value much better. This visualization also has a heatmap element that shows which cars are selling for higher prices on average based on mileage. The map is also a handy data visualization to see the largest car markets in the southeast. This may be a good map for a national auto dealer looking to expand in a new market. 
+
+
+
 QUESTION 2:
 ---
 
