@@ -46,10 +46,13 @@ Both of these visualizations show the top 5 most sold car brands in the Southeas
 QUESTION 2:
 ---
 
+IMPORTANCE:
 
-
+ANALYSIS:
 
 ![Screenshot (61)](https://github.com/RMAGANTI6/MIST4610GroupProject2/assets/163043852/a6fce534-a671-45c1-a565-c8f56771c6fb)
+
+
 
 
 
