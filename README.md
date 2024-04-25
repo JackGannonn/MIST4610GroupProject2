@@ -64,6 +64,11 @@ DATA MANIPULATION:
 ---
 There were a few different manipulation procedures we had to go through before visualizing our data. First, the first column in the table was all null. This was an easy fix, as we simply excluded the data. We also had to manipulate the data by creating calculated fields. The first of those is NormMake. The original Make column had some inconsistencies and resulted in multiple different rows for the same make (ex: bmw and BMW). Additionally, there were also some duplicate makes, such as Ford and Ford Truck, or VW and Volkswagen. To fix this, we created a calculated that first set all the Make strings to all uppercase. This would combine the rows that had a difference in capitalization. Then, we used a nested if/else statement to convert any additional Makes to their original (Ford Truck combines with Ford). Because of this, we can now look at all the data together and more cleanly.
 
+
+TABLEAU PACKAGED WORKBOOK:
+---
+The packaged Tableau Workbook is attached to the GitHub Repository.
+
 The next calculated field we made was NormState. After filtering out the data that align well with our column, it was as simple as using the UPPER command to get all states to be uppercase. There was the same issue where for example there would be both 'ga' and 'GA'. This calculated field fixed that issue of separation. 
 
 Lastly, the most difficult manipulation was the date data. Using the DATEPARSE function, we had to code the format of the string to allow Tableau to convert it to date data. We also had to include nested function that ignored the time zone part of the original string, as it was in a format that Tableau would not recognize.
