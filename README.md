@@ -45,15 +45,19 @@ Both of these visualizations show the top 5 most sold car brands in the Southeas
 
 QUESTION 2:
 ---
+Of the most common four body types of cars sold in each state (SUV, Sedan, Hatchback, and Wagon), how does condition affect the average selling price of the car, and in which states would consumers get the best value?
+
 
 IMPORTANCE:
+
+This data is important for consumers to understand as it represents the best states to purchase a car in based on the average condition to price ratio. In states like Massachusetts, Maryland, and Oklahoma, the average price is low while the average condition is high indicating that these states have the best value for consumers on average for the most common types of cars. This data can also be used by prospective car dealership owners. They would be able to see which states they should avoid opening a dealership in as they would make less profit from selling cars in higher condition. They can also see which states on average have cars with higher condition and lower condition, which may have deeper meaning when it comes to the car market of that state.
 
 ANALYSIS:
 
 ![Screenshot (61)](https://github.com/RMAGANTI6/MIST4610GroupProject2/assets/163043852/a6fce534-a671-45c1-a565-c8f56771c6fb)
 
 
-
+This visualization illustrates the average condition and average selling price by each state. Since the two bar graphs are stacked on top of each other, we can clearly see which states have the biggest difference based on the height of the bars. The difference in height of the bars is where we can assess the best value to purchase a car from the consumer perspective. For example if you look at the states of Alabama and Massachusetts, they have a large difference between condition and selling price. Since the height of the condition bar is higher, this indicates that consumers would receive the greatest value in purchasing a car in these states as it included low selling price with relatively high quality. This would a great data visualization image for consumers who are looking to buy a car as they can determine which state to purchase the car from. 
 
 
 
