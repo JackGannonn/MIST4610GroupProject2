@@ -48,6 +48,15 @@ QUESTION 2:
 
 
 
+
+![Screenshot (61)](https://github.com/RMAGANTI6/MIST4610GroupProject2/assets/163043852/a6fce534-a671-45c1-a565-c8f56771c6fb)
+
+
+
+
+
+
+
 DATA MANIPULATION:
 ---
 There were a few different manipulation procedures we had to go through before visualizing our data. First, the first column in the table was all null. This was an easy fix, as we simply excluded the data. We also had to manipulate the data by creating calculated fields. The first of those is NormMake. The original Make column had some inconsistencies and resulted in multiple different rows for the same make (ex: bmw and BMW). Additionally, there were also some duplicate makes, such as Ford and Ford Truck, or VW and Volkswagen. To fix this, we created a calculated that first set all the Make strings to all uppercase. This would combine the rows that had a difference in capitalization. Then, we used a nested if/else statement to convert any additional Makes to their original (Ford Truck combines with Ford). Because of this, we can now look at all the data together and more cleanly.
