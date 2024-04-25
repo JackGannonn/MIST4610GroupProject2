@@ -7,12 +7,12 @@ Sp24_21484_Group3
 
 TEAM MEMBERS:
 ----
-1. Brendan Rice
-2. Areez Shaikh
-3. Roshan Maganti
-4. Brayden Keller
-5. Ella Gunning
-6. Jack Gannon
+1. Brendan Rice | [@brendanr14](https://github.com/brendanr14/MIST4610GroupProject2)
+2. Roshan Maganti | [@rmaganti6](https://github.com/RMAGANTI6/MIST4610GroupProject2)
+3. Areez Shaikh | [@areezshaikh](https://github.com/areezshaikh/MIST4610GroupProject2)
+4. Jack Gannon | [@jackgannonn](https://github.com/JackGannonn/MIST4610GroupProject2)
+5. Brayden Keller | [@braydok12](https://github.com/braydok12/MIST4610GroupProject2)
+6. Ella Gunning | [@ellagunning](https://github.com/ellagunning/MIST4610GroupProject2)
 
 
 DESCRIPTION OF DATASET:
